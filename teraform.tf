@@ -1,3 +1,6 @@
+
+This is a lightweighted tag
+
 Push this feature to feature-001 branch
 
 Line 1
